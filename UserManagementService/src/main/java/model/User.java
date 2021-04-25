@@ -8,7 +8,6 @@ public class User {
 	
 	
 	
-	
 	//A common method to connect to the DB
 			private Connection connect() 
 			{
