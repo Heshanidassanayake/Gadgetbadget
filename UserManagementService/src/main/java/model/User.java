@@ -28,7 +28,7 @@ public class User {
 			
 			}
 			
-			public String insertUser(String UserFirstName, String UserLastName, String UserAddress, String UserNIC, String UserPhoneNumber, String UserEmail, String UserName, String UserPassword) 
+			public String  insertUser(String UserFirstName, String UserLastName, String UserAddress, String UserNIC, String UserPhoneNumber, String UserEmail, String UserName, String UserPassword) 
 			{
 					String output = "";
 					String phone = "^[0-9]{10}$";
